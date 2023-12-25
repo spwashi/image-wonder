@@ -1,4 +1,4 @@
-package main
+package image_wonder
 
 import (
 	"fmt"
